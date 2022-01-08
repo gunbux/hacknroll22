@@ -9,7 +9,7 @@
 </p>
 
 ## Inspiration
-In 2017, a startup named [Juicer](https://en.wikipedia.org/wiki/Juicero) raised $120 million in startup funding for essentially a machine that squeezes. In 2022, we aim to recreate it's success by scamming a hackathon prize.
+In 2017, a startup named [Juicero](https://en.wikipedia.org/wiki/Juicero) raised $120 million in startup funding for essentially a machine that squeezes. In 2022, we aim to recreate it's success by scamming a hackathon prize.
 
 ## What it does
 It squeezes juice out of a packet.
